@@ -52,6 +52,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://mp.s81c.com/pwb-production/d550008d9c0597057c27d38a428bc1b7/NexusRepo-Vertical-75f08805-25a3-4351-83b7-6235092a89fd_2bf6a3c3-c03d-4192-9e51-ff8a602eec8e.svg" height="40" alt="Sonatype Nexus Repo" />
+  <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" height="40" alt="SonarQube" />
+  
 </div>
 
 
