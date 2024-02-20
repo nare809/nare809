@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://e7.pngegg.com/pngimages/887/314/png-clipart-devops-software-engineering-technology-engineer-blue-text-thumbnail.png"  />
+  <img height="150" src="https://www.svgrepo.com/show/492750/senior-man-playing-a-computer-inspiration.svg"  />
 </div>
 
 ###
@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/376353/terraform.svg" height="40" alt="Terraform"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
